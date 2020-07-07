@@ -1,7 +1,6 @@
 # ShinyApp-TextMining-and-Sentiment-Analysis-from-Twitter-Data
 
-Our group used this project for practical learning exsersise in our YorkU Data Science program.
-Please find used in this project attached in this repository.
+Our group used this project for practical learning exercise in our YorkU Data Science program. Please find used in this project attached in this repository.
 
 ### References & Sources
 	Erik Bruin’s Kaggle Page - https://www.kaggle.com/erikbruin/text-mining-the-clinton-and-trump-election-tweets/data (Text mining the Clinton and Trump election Tweets)
